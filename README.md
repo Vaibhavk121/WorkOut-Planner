@@ -74,6 +74,6 @@ This project is licensed under the MIT License.
 If you have any questions or feedback, feel free to reach out:
 
 - **Your Name** - [Email](vaibhavkumar10112004@gmail.com)
-- **Instagram**: [Insta]([https://github.com/your-username](https://www.instagram.com/vaibhav.k111?igsh=dXNjbGJoazJjanY=))
+- **Instagram**: [Insta](https://www.instagram.com/vaibhav.k111?igsh=dXNjbGJoazJjanY=)
 
 
