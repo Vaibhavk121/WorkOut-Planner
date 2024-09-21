@@ -38,12 +38,12 @@ https://expo.dev/accounts/vaibhavk111/projects/WorkOutPlanner/builds/aa5c3113-4c
 
 - Have a Glimpse of the application
 
-### App overview 
-
-![HomePage](https://ibb.co/93F3gQH)
+### App overview
+![HomePage](https://i.ibb.co/93F3gQH/homepage.png) 
 
 ### Workout
-![Workout](https://ibb.co/bJwSbMQ)
+![Workout](https://i.ibb.co/bJwSbMQ/workout.png)
+
 
 
 ## 🛠️ Technologies Used
