@@ -39,10 +39,10 @@ https://expo.dev/accounts/vaibhavk111/projects/WorkOutPlanner/builds/aa5c3113-4c
 - Have a Glimpse of the application
 
 ### App overview
-<img src="https://i.ibb.co/2YDYhG3/Whats-App-Image-2024-09-21-at-11-27-35-49c16c48.jpg" alt="HomePage" width="300"/>
+<img src="https://i.ibb.co/2YDYhG3/Whats-App-Image-2024-09-21-at-11-27-35-49c16c48.jpg" alt="HomePage" width="250"/>
 
 ### Workout
-<img src="https://i.ibb.co/SrYhf45/Whats-App-Image-2024-09-21-at-11-27-35-fb9643bd.jpg" alt="Workout" width="300"/>
+<img src="https://i.ibb.co/SrYhf45/Whats-App-Image-2024-09-21-at-11-27-35-fb9643bd.jpg" alt="Workout" width="250"/>
 
 
 
