@@ -52,7 +52,7 @@ https://expo.dev/accounts/vaibhavk111/projects/WorkOutPlanner/builds/aa5c3113-4c
 - **React Native**: A framework for building native apps using React.
 - **Expo**: A toolset for building and deploying React Native apps.
 - **JavaScript/TypeScript**: For coding the application logic.
-- **Redux**: For state management (if applicable).
+
 
 ## 📖 How to Use
 
